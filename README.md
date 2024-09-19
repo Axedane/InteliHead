@@ -3,21 +3,21 @@
 ### It consists of (username), (DisplayName) and (RANK).
 
 ## Its name is based on
-## Inteli - Inteligent
-## head - OverHead
+Inteli - Inteligent
+head - OverHead
 
 
 # Ideas:
-## Group based ranking system
-## Team based ranking system
-### And
-## Ranking system for single devs! (No group)
+Group based ranking system
+Team based ranking system
+And
+Ranking system for single devs! (No group)
 
 # Development Schedule
-## 1.Group based ranking system
-## 2.Single Dev Based ranking system
-## 3.Team based ranking system(Side part of the project)
+1.Group based ranking system
+2.Single Dev Based ranking system
+3.Team based ranking system(Side part of the project)
 
 # This is only a preview of whats about to come!
 
-# InteliDevel Official Site
+# [InteliDevel Official Site](https://intelidevel.framer.website/)
