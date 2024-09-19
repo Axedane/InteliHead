@@ -2,46 +2,46 @@
 
 <img src="InteliHead.jpg">
 
-## InteliHead its a small project of mine. I’m starting my journey with coding so i wanted to make an overhead system! Making it purely for customizing and I wanted to create an AiO OverHead system!
+//## InteliHead its a small project of mine. I’m starting my journey with coding so i wanted to make an overhead system! Making it purely for customizing and I wanted to create an AiO OverHead system!
 
 
-### It consists of (username), (DisplayName) and (RANK).
+//### It consists of (username), (DisplayName) and (RANK).
 
-## Its name is based on
+//## Its name is based on
 
-Inteli - Inteligent
+//Inteli - Inteligent
 
-head - OverHead
+//head - OverHead
 
 <img src="Ideas.jpg">
 
-# Ideas:
+//# Ideas:
 
-Group based ranking system
+//Group based ranking system
 
-Team based ranking system
+//Team based ranking system
 
-And
+//And
 
-Ranking system for single devs! (No group)
+//Ranking system for single devs! (No group)
 
 <img src="Development Schedule.jpg">
 
-# Development Schedule
+//# Development Schedule
 
-1.Group based ranking system
+//1.Group based ranking system
 
-2.Single Dev Based ranking system
+//2.Single Dev Based ranking system
 
-3.Team based ranking system(Side part of the project)
+//# Team based ranking system(Side part of the project)
 
 
 <img src="Preview.jpg">
 
-# This is only a preview of whats about to come!
+//# This is only a preview of whats about to come!
 
 <img src="InteliDevl.jpg">
 
-# [InteliDevel Official Site](https://intelidevel.framer.website/)
+//# [InteliDevel Official Site](https://intelidevel.framer.website/)
 
 </p>
