@@ -23,7 +23,7 @@ Team based ranking system (Beta)
 
 And
 
-Ranking system for single devs! (No group)
+Ranking system for single devs! (No group) (Beta)
 
 <img src="Development Schedule.jpg">
 
