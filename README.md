@@ -1,6 +1,9 @@
+<p align="center">
+
 <img src="InteliHead.jpg">
 
 ## InteliHead its a small project of mine. I’m starting my journey with coding so i wanted to make an overhead system! Making it purely for customizing and I wanted to create an AiO OverHead system!
+
 
 ### It consists of (username), (DisplayName) and (RANK).
 
@@ -40,3 +43,5 @@ Ranking system for single devs! (No group)
 <img src="InteliDevl.jpg">
 
 # [InteliDevel Official Site](https://intelidevel.framer.website/)
+
+</p>
